@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+## Choose Language / Выберите язык
+
+<details>
+<summary>🇷🇺 Russian / Русский</summary>
+Здесь ваш текст на русском языке.
+</details>
+
+<details>
+<summary>🇬🇧 English / Английский</summary>
+Here is your text in English.
+</details>
+
 <!--
 **TyranR/TyranR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
