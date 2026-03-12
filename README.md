@@ -3,7 +3,7 @@
 ## Choose Language / Выберите язык
 
 <details>
-<summary>🇷🇺 Russian / Русский</summary>
+<summary>Для коллег и партнеров в СНГ</summary>
 
 ## 💼 Опыт работы
 
@@ -45,7 +45,7 @@
 </details>
 
 <details>
-<summary>🇬🇧 English / Английский</summary>
+<summary>For International Partners & Remote Projects</summary>
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
