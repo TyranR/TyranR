@@ -1,7 +1,7 @@
 # Андрей Азаров | Andrey Azarov
 ### CIO / IT Director
 
-🇷🇺 [Для коллег и партнеров в СНГ](#для-коллег-и-партнеров-в-снг) | 🇬🇧 [For International Partners & Remote Projects](#for-international-partners)
+🇷🇺 [Для коллег и партнеров в СНГ](#для-коллег-и-партнеров-в-снг) | 🇬🇧 [For International Partners & Remote Projects](#for-international-partners-&-remote-projects)
 
 ## Для коллег и партнеров в СНГ
 <details>
