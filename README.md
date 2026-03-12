@@ -3,6 +3,7 @@
 
 🇷🇺 [Для коллег и партнеров в СНГ](#для-русскоязычных-коллег) | 🇬🇧 [For International Partners & Remote Projects](#for-international-partners)
 
+## Для коллег и партнеров в СНГ
 <details>
 <summary>Для коллег и партнеров в СНГ</summary>
 
@@ -45,6 +46,7 @@
 
 </details>
 
+## For International Partners & Remote Projects
 <details>
 <summary>For International Partners & Remote Projects</summary>
 <div align="center">
