@@ -77,17 +77,14 @@
 
 ### Management  
 <div align="center">  
-    <a href="https://www.atlassian.com/software/jira" target="_blank">
-      <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="40" />
-    </a>
-    <a href="https://www.atlassian.com/software/confluence" target="_blank">
-      <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="Confluence" height="40" />
-    </a>
-    <a href="https://miro.com/" target="_blank">
-      <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="Miro" height="40" />
-    </a>
-    <a href="https://openai.com/chatgpt" target="_blank">
-      <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" height="40" /> </a></div>
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" height="40" /></a>
+<a href="https://www.atlassian.com/software/confluence" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" height="40" /></a>
+<a href="https://miro.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="Miro" height="40" /></a>
+<a href="https://openai.com/chatgpt" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" height="40" /></a>
+<a href="https://www.notion.so/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" alt="Notion" height="40" /></a>
+<a href="https://workspace.google.com/" target="_blank"><img style="margin: 10px" src="https://www.gstatic.com/images/branding/product/2x/workspace_96dp.png" alt="Google Workspace" height="40" /></a>
+<a href="https://gemini.google.com/" target="_blank"><img style="margin: 10px" src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d47353046547a050bbce2.svg" alt="Gemini" height="40" /></a>
+</div>
 </td>
     
 </tr></table>  
