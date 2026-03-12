@@ -1,77 +1,6 @@
 # Андрей Азаров | Andrey Azarov
 ### CIO / IT Director
 
-🇷🇺 [Для коллег и партнеров в СНГ](#для-коллег-и-партнеров-в-снг) | 🇬🇧 [For International Partners & Remote Projects](#for-international-partners--remote-projects)
-
-## Для коллег и партнеров в СНГ
-<details>
-
-## 💼 Опыт работы
-
-<details>
-  <summary><b>Elephant Games</b> | Директор по информационным технологиям (CIO) (02.2023 — по наст. время)</summary>
-  
-  **Армения** | [elephant-games.com](https://elephant-games.com) | games development
-  
-  **Ключевые достижения:**
-  
-  * **Оптимизация IT-инфраструктуры:** Осуществил масштабный перенос серверных мощностей из РФ в облако **AWS**. Адаптировал приложения под **Kubernetes**, обеспечив современную и отказоустойчивую среду.
-  * **CI/CD и DevOps:** Централизовал процессы разработки, перейдя с Jenkins и TeamCity на **GitLab CI/CD**.
-    * Внедрил **Terraform** (Infrastructure as Code) для автоматизации развертывания ресурсов в AWS.
-    * Реализовал миграцию репозиториев: Gitea → Assembla → GitLab (40Tb, 300+ репо)
-  * **Эффективность и бюджет:**
-    * Спланировал IT-бюджет на 2 года вперед, внедрив стратегии снижения затрат на лицензии и сервисы.
-    * Оптимизировал операционные расходы (экономия 50%), заменив неэффективные решения на более выгодные аналоги
-  * **Управление:** Сформировал распределенную команду с нуля (8+ человек), внедрил систему быстрого онбординга для DevOps-инженеров.
-</details>
-
-<details>
-  <summary><b>Game Insight</b> | Директор по информационным технологиям (CIO) (03.2017 — 06.2022)</summary>
-  
-  **Литва** | [game-insight.com](https://game-insight.com) | games development
-  
-  **Обязанности:**
-  * Управление департаментом ИТ (**35 человек, 5 лидов**): техподдержка, инфраструктура, инфобез, PMO, разработка.
-  * Поддержка 650+ пользователей (СНГ и Европа) в режиме Work From Home.
-  * Обеспечение отказоустойчивости игровых серверов (**GCP, AWS**).
-  * Финансовое планирование (25 статей, 20 проектов).
-  **Ключевые достижения:**
-  * **Реорганизация и запуск:** Построил с нуля отделы PMO, разработки, закупок и ИБ. Создал центр инженерной экспертизы.
-  * **Консолидация систем:** Объединил разрозненные сервисы в единый стек (**G-Suite, Jira, Confluence, GitLab, Zabbix**). Мигрировал данные из Redmine, Asana, Trello, GitHub.
-  * **Собственная разработка:** Руководил созданием внутренних сервисов (финконтроль, учет арт-контента, HR-система, документооборот, портал локализации).
-  * **Сетевая инфраструктура:** Построил опорную сеть (статус **LIR, 6 AS, BGP+OSPF**).
-  * **Автоматизация:** Централизовал процессы CI/CD и перевел учет имущества (включая НМА) на базу 1С.
-</details>
-
-</details>
-
-## For International Partners & Remote Projects
-<details>
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Andrey!</div>  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Docker and Kubernetes  
-  
-
-- ❓ Ask me about anything related to IT  
-  
-
-- ⚡ Fun fact: ---------  
-  
-
-<br/>  
-----
-</details>
-
-
 ## My Skill Set  
 <div align="center">
 <table><tr><td valign="top" width="25%">
@@ -129,6 +58,78 @@
     
 </tr></table>  
 </div>
+
+
+🇷🇺 [Для коллег и партнеров в СНГ](#для-коллег-и-партнеров-в-снг) | 🇬🇧 [For International Partners & Remote Projects](#for-international-partners--remote-projects)
+
+## Для коллег и партнеров в СНГ
+<details>
+
+## 💼 Опыт работы
+
+<details>
+  <summary><b>Elephant Games</b> | Директор по информационным технологиям (CIO) (02.2023 — по наст. время)</summary>
+  
+  **Армения** | [elephant-games.com](https://elephant-games.com) | games development
+  
+  **Ключевые достижения:**
+  
+  * **Оптимизация IT-инфраструктуры:** Осуществил масштабный перенос серверных мощностей из РФ в облако **AWS**. Адаптировал приложения под **Kubernetes**, обеспечив современную и отказоустойчивую среду.
+  * **CI/CD и DevOps:** Централизовал процессы разработки, перейдя с Jenkins и TeamCity на **GitLab CI/CD**.
+    * Внедрил **Terraform** (Infrastructure as Code) для автоматизации развертывания ресурсов в AWS.
+    * Реализовал миграцию репозиториев: Gitea → Assembla → GitLab (40Tb, 300+ репо)
+  * **Эффективность и бюджет:**
+    * Спланировал IT-бюджет на 2 года вперед, внедрив стратегии снижения затрат на лицензии и сервисы.
+    * Оптимизировал операционные расходы (экономия 50%), заменив неэффективные решения на более выгодные аналоги
+  * **Управление:** Сформировал распределенную команду с нуля (8+ человек), внедрил систему быстрого онбординга для DevOps-инженеров.
+</details>
+
+<details>
+  <summary><b>Game Insight</b> | Директор по информационным технологиям (CIO) (03.2017 — 06.2022)</summary>
+  
+  **Литва** | [game-insight.com](https://game-insight.com) | games development
+  
+  **Обязанности:**
+  * Управление департаментом ИТ (**35 человек, 5 лидов**): техподдержка, инфраструктура, инфобез, PMO, разработка.
+  * Поддержка 650+ пользователей (СНГ и Европа) в режиме Work From Home.
+  * Обеспечение отказоустойчивости игровых серверов (**GCP, AWS**).
+  * Финансовое планирование (25 статей, 20 проектов).
+  **Ключевые достижения:**
+  * **Реорганизация и запуск:** Построил с нуля отделы PMO, разработки, закупок и ИБ. Создал центр инженерной экспертизы.
+  * **Консолидация систем:** Объединил разрозненные сервисы в единый стек (**G-Suite, Jira, Confluence, GitLab, Zabbix**). Мигрировал данные из Redmine, Asana, Trello, GitHub.
+  * **Собственная разработка:** Руководил созданием внутренних сервисов (финконтроль, учет арт-контента, HR-система, документооборот, портал локализации).
+  * **Сетевая инфраструктура:** Построил опорную сеть (статус **LIR, 6 AS, BGP+OSPF**).
+  * **Автоматизация:** Централизовал процессы CI/CD и перевел учет имущества (включая НМА) на базу 1С.
+</details>
+
+</details>
+
+## For International Partners & Remote Projects
+<details>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Andrey!</div>  
+  
+
+- 🔭 I’m currently working on  
+  
+
+- 🌱 I’m currently learning Docker and Kubernetes  
+  
+
+- ❓ Ask me about anything related to IT  
+  
+
+- ⚡ Fun fact: ---------  
+  
+
+<br/>  
+----
+</details>
+
 <br/>  
 
 ## Connect with me  
