@@ -84,7 +84,7 @@
       <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="Confluence" height="40" />
     </a>
     <a href="https://miro.com/" target="_blank">
-      <img style="margin: 10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/miro.svg" alt="Miro" height="40" />
+      <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="Miro" height="40" />
     </a>
     <a href="https://openai.com/chatgpt" target="_blank">
       <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" height="40" /> </a></div>
