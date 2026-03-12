@@ -33,7 +33,9 @@
 ----
 </details>
 
+
 ## My Skill Set  
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 ### Engineering  
@@ -76,7 +78,7 @@
 </div>
 
 </td></tr></table>  
-
+</div>
 <br/>  
 
 ## Connect with me  
