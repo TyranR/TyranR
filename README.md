@@ -5,7 +5,6 @@
 
 ## Для коллег и партнеров в СНГ
 <details>
-<summary>Для коллег и партнеров в СНГ</summary>
 
 ## 💼 Опыт работы
 
@@ -48,7 +47,6 @@
 
 ## For International Partners & Remote Projects
 <details>
-<summary>For International Partners & Remote Projects</summary>
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
