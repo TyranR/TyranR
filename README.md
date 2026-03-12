@@ -79,12 +79,22 @@
 </td>
 
 <td valign="top" width="25%" align="center">
-      <h3>Management</h3>
-      <a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jira-color.svg" alt="Jira" height="40" /> /a>
-      <a href="https://www.atlassian.com/software/confluence" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/confluence-color.svg" alt="Confluence" height="40" /></a>
-      <a href="https://miro.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/miro.alt.svg" alt="Miro" height="40" /></a>
-      <a href="https://openai.com/chatgpt" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" height="40" /</a>
-    </td>
+  <h3>Management</h3>
+  <div align="center">
+    <a href="https://www.atlassian.com/software/jira" target="_blank">
+      <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="40" />
+    </a>
+    <a href="https://www.atlassian.com/software/confluence" target="_blank">
+      <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="Confluence" height="40" />
+    </a>
+    <a href="https://miro.com/" target="_blank">
+      <img style="margin: 10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/miro.svg" alt="Miro" height="40" />
+    </a>
+    <a href="https://openai.com/chatgpt" target="_blank">
+      <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" height="40" />
+    </a>
+  </div>
+</td>
     
 </tr></table>  
 </div>
