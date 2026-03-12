@@ -5,15 +5,11 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/tyranr" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/andreyazarov" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/tyranr" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
+<a href="https://github.com/tyranr" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
+<a href="https://linkedin.com/in/andreyazarov" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
+<a href="https://www.facebook.com/tyranr" target="_blank"><img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" /></a>
+<a href="https://hh.ru/resume/be5af155ff099d74260039ed1f316b38754458" target="_blank"><img src="https://img.shields.io/badge/hh.ru-%23FF002E.svg?&style=for-the-badge&logoColor=white" alt="hh.ru" style="margin-bottom: 5px;" /></a>
+    
 </div>  
 
 ## My Skill Set  
