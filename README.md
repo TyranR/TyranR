@@ -201,6 +201,7 @@
 
 ## For International Partners & Remote Projects
 <details>
+    
 ## 💼 Professional experience
 
 <details>
@@ -227,7 +228,7 @@
 <details>
   <summary><b>Nival</b> | IT Director (CIO) (11.2008 — 03.2016)</summary>
   
-  **Moscow/MinskF** | [nival.com](https://nival.com) | games development
+  **Moscow/Minsk** | [nival.com](https://nival.com) | games development
 
 </details>
 
