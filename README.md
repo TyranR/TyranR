@@ -51,8 +51,6 @@
 
 </td><td valign="top" width="25%">
 
-
-
 ### Programming  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -62,8 +60,6 @@
 </div>
 
 </td><td valign="top" width="25%">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -76,11 +72,11 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
-</td>
 
-<td valign="top" width="25%" align="center">
-  <h3>Management</h3>
-  <div align="center">
+</td><td valign="top" width="25%">
+
+### Management  
+<div align="center">  
     <a href="https://www.atlassian.com/software/jira" target="_blank">
       <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="40" />
     </a>
@@ -91,9 +87,7 @@
       <img style="margin: 10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/miro.svg" alt="Miro" height="40" />
     </a>
     <a href="https://openai.com/chatgpt" target="_blank">
-      <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" height="40" />
-    </a>
-  </div>
+      <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" height="40" /> </a></div>
 </td>
     
 </tr></table>  
