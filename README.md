@@ -36,7 +36,7 @@
 
 ## My Skill Set  
 <div align="center">
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
 
 ### Engineering  
 <div align="center">  
@@ -49,7 +49,7 @@
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
@@ -61,7 +61,7 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
@@ -76,8 +76,17 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
+</td>
 
-</td></tr></table>  
+<td valign="top" width="25%" align="center">
+      <h3>Management</h3>
+      <a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jira-color.svg" alt="Jira" height="40" /> /a>
+      <a href="https://www.atlassian.com/software/confluence" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/confluence-color.svg" alt="Confluence" height="40" /></a>
+      <a href="https://miro.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/miro.alt.svg" alt="Miro" height="40" /></a>
+      <a href="https://openai.com/chatgpt" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" height="40" /</a>
+    </td>
+    
+</tr></table>  
 </div>
 <br/>  
 
