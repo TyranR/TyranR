@@ -197,34 +197,54 @@
   * Старший системный администратор (апрель 2004 - февраль 2005): вырос функционал - занимался серверами в датацентрах, внедрял виртуальные терминалы, развернул и поддерживал сервисы для call-центра.
   * Системный администратор (сентябрь 2001 - апрель 2004) - начало трудовой деятельности. Человек-оркестр, занимался всем один - сеть, сайты, АТС. Строил ИТ-инфраструктуру при открытии новых офисов, в том числе и в других странах, обеспечивал полную поддержку удаленной инфраструктуры и пользователей. 
 </details>
-
-
 </details>
 
 ## For International Partners & Remote Projects
 <details>
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+## 💼 Professional experience
 
-### <div align="center">I'm Andrey!</div>  
+<details>
+  <summary><b>Elephant Games</b> | IT Director (CIO) (02.2023 — current)</summary>
   
-
-- 🔭 I’m currently working on  
+  **Armenia** | [elephant-games.com](https://elephant-games.com) | games development
   
+</details>
 
-- 🌱 I’m currently learning Docker and Kubernetes  
+<details>
+  <summary><b>Game Insight</b> | IT Director (CIO) (03.2017 — 06.2022)</summary>
   
-
-- ❓ Ask me about anything related to IT  
+  **Lithuania** | [game-insight.com](https://game-insight.com) | games development
   
+</details>
 
-- ⚡ Fun fact: ---------  
+<details>
+  <summary><b>KamaGames Studio</b> | IT Director (CIO) (03.2016 — 02.2017)</summary>
   
+  **Ireland** | [kamagames.com](https://kamagames.com) | games development
+  
+</details>
 
-<br/>  
-----
+<details>
+  <summary><b>Nival</b> | IT Director (CIO) (11.2008 — 03.2016)</summary>
+  
+  **Moscow/MinskF** | [nival.com](https://nival.com) | games development
+
+</details>
+
+<details>
+  <summary><b>Intourist</b> | Head of IT (03.2007 — 10.2008)</summary>
+  
+  **Moscow** | [intourist.com](https://intourist.com) | travel & tourism
+  
+</details>
+
+<details>
+  <summary><b>Tez Tour</b> | Head of IT (09.2001 — 03.2007)</summary>
+  
+  **Moscow** | [tez-tour.com](https://www.tez-tour.com) | travel & tourism
+  
+</details>
+
 </details>
 
 <br/>  
