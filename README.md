@@ -1,6 +1,7 @@
-## Hi there 👋
+# Андрей Азаров | Andrey Azarov
+### CIO / IT Director
 
-## Choose Language / Выберите язык
+🇷🇺 [Для коллег и партнеров в СНГ](#для-русскоязычных-коллег) | 🇬🇧 [For International Partners & Remote Projects](#for-international-partners)
 
 <details>
 <summary>Для коллег и партнеров в СНГ</summary>
