@@ -48,7 +48,7 @@
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>
 <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" height="40" /></a>
-<a href="https://www.zabbix.com/" target="_blank"><img style="margin: 10px" src="https://i0.wp.com/adminguide.ru/wp-content/uploads/2018/05/post-logo_Zabbix.png" alt="Zabbix" height="40" /></a>
+<a href="https://www.zabbix.com/" target="_blank"><img style="margin: 10px" src="https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png" alt="Zabbix" height="40" /></a>
 </div>
 
 </td><td valign="top" width="25%">
