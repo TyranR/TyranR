@@ -201,7 +201,7 @@
 ## 💼 Professional experience
 
 <details>
-  <summary><b>Elephant Games</b> | IT Director (CIO) (02.2023 — current)</summary>
+  <summary><b>Elephant Games</b> | IT Director (CIO) (02.2023 — present)</summary>
   
   **Armenia** | [elephant-games.com](https://elephant-games.com) | games development
   
