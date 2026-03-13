@@ -10,9 +10,10 @@
 
 ## Для коллег и партнеров в СНГ
 <details>
-  
+  <summary>
 ## 💼 Опыт работы
-
+  </summary>
+  
   <details>
   <summary><b>Elephant Games</b> | Директор по информационным технологиям (CIO) (02.2023 — по наст. время)</summary>
   
