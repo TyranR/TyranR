@@ -10,9 +10,7 @@
 
 ## Для коллег и партнеров в СНГ
 <details>
-  <summary>
-## 💼 Опыт работы
-  </summary>
+  <summary> 💼 Опыт работы  </summary>
   
   <details>
   <summary><b>Elephant Games</b> | Директор по информационным технологиям (CIO) (02.2023 — по наст. время)</summary>
@@ -137,7 +135,7 @@
 ## For International Partners & Remote Projects
 <details>
     
-## 💼 Professional experience
+<summary>💼 Professional experience </summary>
 
 <details>
   <summary><b>Elephant Games</b> | IT Director (CIO) (02.2023 — present)</summary>
