@@ -3,23 +3,6 @@
 
 🇷🇺 [Для коллег и партнеров в СНГ](#для-коллег-и-партнеров-в-снг) | 🇬🇧 [For International Partners & Remote Projects](#for-international-partners--remote-projects)
 
-<td valign="top" width="25%">
-
-### Management  
-<div align="center">  
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" height="40" /></a>
-<a href="https://www.atlassian.com/software/confluence" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" height="40" /></a>
-<a href="https://miro.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="Miro" height="40" /></a>
-<a href="https://openai.com/chatgpt" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" height="40" /></a>
-<a href="https://www.notion.so/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" alt="Notion" height="40" /></a>
-<a href="https://workspace.google.com/" target="_blank"><img style="margin: 10px" src="https://hiviewsolutions.com/wp-content/uploads/2024/08/HiView-Solutions-Google-Workspace-Reseller.-Super-G-Icon.png" alt="Google Workspace" height="40" /></a>
-<a href="https://gemini.google.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/googlegemini/8E75C2" alt="Gemini" height="40" /></a>
-</div>
-</td>
-    
-</tr></table>  
-</div>
-
 ## Для коллег и партнеров в СНГ
 <details>
 
@@ -239,7 +222,22 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
+</td><td valign="top" width="25%">
+
+### Management  
+<div align="center">  
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" height="40" /></a>
+<a href="https://www.atlassian.com/software/confluence" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" height="40" /></a>
+<a href="https://miro.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="Miro" height="40" /></a>
+<a href="https://openai.com/chatgpt" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" height="40" /></a>
+<a href="https://www.notion.so/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" alt="Notion" height="40" /></a>
+<a href="https://workspace.google.com/" target="_blank"><img style="margin: 10px" src="https://hiviewsolutions.com/wp-content/uploads/2024/08/HiView-Solutions-Google-Workspace-Reseller.-Super-G-Icon.png" alt="Google Workspace" height="40" /></a>
+<a href="https://gemini.google.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/googlegemini/8E75C2" alt="Gemini" height="40" /></a>
+</div>
 </td>
+    
+</tr></table>  
+</div>
 
 ## Connect with me  
 <div align="center">
