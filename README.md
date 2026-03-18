@@ -248,10 +248,10 @@
 <div align="center">  
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" height="40" /></a>
 <a href="https://www.atlassian.com/software/confluence" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" height="40" /></a>
-<a href="https://miro.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="Miro" height="40" /></a>
+<a href="https://miro.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" alt="Miro" height="40" /></a> <br>
 <a href="https://www.notion.so/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" alt="Notion" height="40" /></a>
 <a href="https://workspace.google.com/" target="_blank"><img style="margin: 10px" src="https://hiviewsolutions.com/wp-content/uploads/2024/08/HiView-Solutions-Google-Workspace-Reseller.-Super-G-Icon.png" alt="Google Workspace" height="40" /></a>
-<a href="https://gemini.google.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/googlegemini/8E75C2" alt="Gemini" height="40" /></a>
+<a href="https://gemini.google.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/googlegemini/8E75C2" alt="Gemini" height="40" /></a> <br>
 <a href="https://openai.com/chatgpt" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" height="40" /></a>
 </div>
 </td>
