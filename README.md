@@ -158,6 +158,28 @@
   
   **Armenia** | [elephant-games.com](https://elephant-games.com) | games development
   
+  **Key Focus:** Crisis Management, Full Digital Transformation, and IT Asset Audit (M&A Readiness)
+  **Key Achievements:**
+  * **Crisis Management & Audit**
+    * Restoration of Control: Restored 100% manageability of the IT infrastructure within a tight timeframe following the departure of the core IT team and in the complete absence of documentation.
+    * Comprehensive Audit: Conducted a full-scale asset audit across all legal entities within the group (3 countries), including 20-year-old code and data archives, as well as dozens of various SaaS solutions.
+    * Compliance: Performed a SOC 2 / ISO 27001 pre-audit for a key project and prepared the company's technological landscape for the Due Diligence process in view of a potential sale.
+  * **Migration**
+    * Relocation: Executed the complete migration of IT infrastructure from sanctioned regions to a global cloud environment (AWS) with zero business downtime, successfully transitioning offices to a representative-only operational mode.
+    * Data Migration: Managed the migration of over 140 TB of data (including 20 TB of SVN repositories) from legacy physical hardware to the cloud.
+    * Consolidation & Identity Management: Consolidated 10+ fragmented Google Workspace environments into a unified corporate ecosystem.
+    * Centralized Authentication: Implemented seamless Single Sign-On (SSO) for all Google-supported corporate services and enforced mandatory Multi-Factor Authentication (2FA) to minimize unauthorized access risks.
+  * **Economic Efficiency**
+    * IT Budget Optimization: Reduced total IT operational expenditures (OpEx) by 40% through a comprehensive audit of SaaS subscriptions, transition to managed cloud services (EKS, ECS), and decommissioning of inefficient legacy assets.
+    * Asset Management: Conducted inventory, valuation, and liquidation of non-liquid equipment, successfully monetizing the company's obsolete physical assets.
+    * AI Transformation: Integrated AI tools into development workflows, optimizing labor costs and maintaining a high output of up to 15 products per year.
+  * **Technological Transformation**
+    * Modern DevOps Stack: Migrated the company from obsolete on-premise solutions (Lustre, Jenkins, TeamCity) to a modern stack: GitLab CI/CD, Terraform, Kubernetes, ArgoCD, Grafana, and Prometheus.
+    * Elimination of Person Lock-in: Transitioned to industry-standard cloud and Open Source solutions, eliminating business dependency on the unique competencies of specific individuals. This ensured high staff interchangeability and streamlined team scaling.
+    * Team Leadership: Built and trained an in-house IT department from the ground up, completely replacing external consultancy teams hired during the migration phase and implementing transparent management processes.
+    * Business Continuity: Developed and implemented Disaster Recovery Plans (DRP) and critical data backup strategies, ensuring business resilience against sanction-related risks and potential SaaS service outages.
+    * Geopolitical Risk Mitigation: Performed a comprehensive dependency audit on Western SaaS providers; developed and prepared emergency migration scenarios to alternative services in Asian and MENA regions to neutralize geopolitical risks.
+  
 </details>
 
 <details>
