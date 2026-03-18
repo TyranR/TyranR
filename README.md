@@ -157,6 +157,8 @@
   **Armenia** | [elephant-games.com](https://elephant-games.com) | games development
   
   **Key Focus:** Crisis Management, Full Digital Transformation, and IT Asset Audit (M&A Readiness)
+
+  I was invited by the founders to lead a mission-critical digital transformation and resolve a complex crisis following the departure of the previous IT leadership. My role focused on restoring operational control, migrating global assets from sanctioned regions, and preparing the company’s technological landscape for M&A (Due Diligence).
   
   **Key Achievements:**
   * **Crisis Management & Audit**
