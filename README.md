@@ -6,7 +6,13 @@
 * Полное управление всеми функциями в ИТ департаменте в крупных GameDev компаниях
 * Партнерство для CEO/Founders, консультации, проведение ИТ аудита, tech-interviews, стратегия
 
+
+
+
 🇷🇺 [Для коллег и партнеров в СНГ](#для-коллег-и-партнеров-в-снг) | 🇬🇧 [For International Partners & Remote Projects](#for-international-partners--remote-projects)
+
+
+
 
 ## Для коллег и партнеров в СНГ
 <details>
@@ -223,6 +229,12 @@
 <br/>  
  
 <br/>  
+
+
+
+
+
+
 
 ## My Skill Set  
 <div align="center">
