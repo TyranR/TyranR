@@ -25,7 +25,7 @@
   
   **Ключевой фокус**: Кризис-менеджмент, полная цифровая трансформация и аудит технологических активов (M&A Readiness).
   
-  Был приглашен фаундерами для проведения критически важной цифровой трансформации и вывода компании из кризиса после ухода предыдущего ИТ-руководства. Моя роль была сфокусирована на восстановлении операционного контроля, миграции глобальных активов из санкционных регионов и подготовке технологического контура компании к процедуре Due Diligence.
+  Был приглашен фаундерами для проведения критически важной цифровой трансформации и вывода компании из кризиса после ухода предыдущего ИТ-руководства. Моя роль была сфокусирована на восстановлении операционного контроля, миграции глобальных активов между регионами и подготовке технологического контура компании к процедуре Due Diligence.
   
   **Ключевые достижения:**
 * **Антикризисное управление и аудит**
@@ -33,7 +33,7 @@
   * Аудит: провел комплексный аудит активов всех юрлиц в контуре компании (3 страны), включая 20-летние архивы кода и данных, а также десятки различных SaaS-решений.
   * Соответствие стандартам: провел преаудит по стандартам SOC 2 / ISO 27000 для ключевых проектов и подготовил технологический контур компании к процедуре Due Diligence для потенциальной продажи.
 * **Миграция**
-  * Релокация инфраструктуры: реализовал полный вывод IT-инфраструктуры из санкционных регионов в международный облачный контур (AWS) без остановки бизнес-процессов, переведя офисы в представительский режим работы.
+  * Релокация инфраструктуры: реализовал полный вывод IT-инфраструктуры в международный облачный контур (AWS) без остановки бизнес-процессов, переведя офисы в представительский режим работы.
   * Миграция данных: Обеспечил миграцию более 140 ТБ данных (включая 20 ТБ SVN-репозиториев) с физического легаси-железа в облачную среду.
   * Консолидация и управление учетными записями: объединил более 10 разрозненных Google Workspace в единую корпоративную среду.
   * Централизованная аутентификация: реализовал бесшовную авторизацию (SSO) для всех корпоративных сервисов, поддерживающих Google SSO, и внедрил обязательную двухфакторную аутентификацию (2FA) для минимизации рисков несанкционированного доступа.
@@ -164,7 +164,7 @@
   
   **Key Focus:** Crisis Management, Full Digital Transformation, and IT Asset Audit (M&A Readiness)
 
-  I was invited by the founders to lead a mission-critical digital transformation and resolve a complex crisis following the departure of the previous IT leadership. My role focused on restoring operational control, migrating global assets from sanctioned regions, and preparing the company’s technological landscape for M&A (Due Diligence).
+  I was invited by the founders to lead a mission-critical digital transformation and resolve a complex crisis following the departure of the previous IT leadership. My role focused on restoring operational control, migrating global assets from one region to another, and preparing the company’s technological landscape for M&A (Due Diligence).
   
   **Key Achievements:**
   * **Crisis Management & Audit**
@@ -172,7 +172,7 @@
     * Comprehensive Audit: Conducted a full-scale asset audit across all legal entities within the group (3 countries), including 20-year-old code and data archives, as well as dozens of various SaaS solutions.
     * Compliance: Performed a SOC 2 / ISO 27001 pre-audit for a key project and prepared the company's technological landscape for the Due Diligence process in view of a potential sale.
   * **Migration**
-    * Relocation: Executed the complete migration of IT infrastructure from sanctioned regions to a global cloud environment (AWS) with zero business downtime, successfully transitioning offices to a representative-only operational mode.
+    * Relocation: Executed the complete migration of IT infrastructure to a global cloud environment (AWS) with zero business downtime, successfully transitioning offices to a representative-only operational mode.
     * Data Migration: Managed the migration of over 140 TB of data (including 20 TB of SVN repositories) from legacy physical hardware to the cloud.
     * Consolidation & Identity Management: Consolidated 10+ fragmented Google Workspace environments into a unified corporate ecosystem.
     * Centralized Authentication: Implemented seamless Single Sign-On (SSO) for all Google-supported corporate services and enforced mandatory Multi-Factor Authentication (2FA) to minimize unauthorized access risks.
