@@ -306,7 +306,7 @@
 
 ## Open-source contributions
 
-Разрабатываю и поддерживаю шаблоны мониторинга для Zabbix, принятые в официальный репозиторий [Zabbix Community Templates](https://github.com/zabbix/community-templates/issues?q=is%3Apr%20state%3Aopen%20author%3ATyranR)
+Разрабатываю и поддерживаю шаблоны мониторинга для Zabbix, принятые в официальный репозиторий [Zabbix Community Templates](https://github.com/zabbix/community-templates/issues?q=is%3Apr%20state%3Aclosed%20author%3ATyranR)
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tyranr&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
