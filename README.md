@@ -304,6 +304,15 @@
     
 </div>  
 
+## Open-source contributions
+
+Разрабатываю и поддерживаю шаблоны мониторинга для Zabbix. Мои шаблоны, принятые в официальный репозиторий [Zabbix Community Templates](https://github.com/zabbix/community-templates):
+
+- **[HP LaserJet P1606dn — SNMP monitoring template](https://github.com/zabbix/community-templates/pull/735)**  
+  Мониторинг состояния принтера, расходных материалов и счётчиков через SNMPv2.
+
+- **[Dune HD — HTTP monitoring template](https://github.com/zabbix/community-templates/pull/746)**  
+  Мониторинг медиаплееров Dune HD через встроенный HTTP IP Control API.
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tyranr&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
